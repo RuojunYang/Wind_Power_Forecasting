@@ -3,6 +3,10 @@
 ## A Meachine Learning Topic about power forecasting
 * This is a sample of what I learned during intership
 
+## Dataset
+* From kaggle
+* https://www.kaggle.com/datasets/theforcecoder/wind-power-forecasting?resource=download
+
 ## Feature
 * Data Clean
 * XGBoost
