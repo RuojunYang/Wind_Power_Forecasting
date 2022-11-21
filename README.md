@@ -9,6 +9,7 @@
 
 ## Feature
 * Data Clean
+* Sigmod function relation
 * XGBoost
 * Feature Engineering
 
